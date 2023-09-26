@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AntraMVC", "AntraMVC\AntraMVC.csproj", "{B493CF52-699A-48DB-8C9E-93E365171D14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntraMVCTesting", "AntraMVCTesting\AntraMVCTesting.csproj", "{97D8738F-13C3-413A-A5A0-8A249433557A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B493CF52-699A-48DB-8C9E-93E365171D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B493CF52-699A-48DB-8C9E-93E365171D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B493CF52-699A-48DB-8C9E-93E365171D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B493CF52-699A-48DB-8C9E-93E365171D14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97D8738F-13C3-413A-A5A0-8A249433557A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D8738F-13C3-413A-A5A0-8A249433557A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D8738F-13C3-413A-A5A0-8A249433557A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D8738F-13C3-413A-A5A0-8A249433557A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1CBA15A-E309-4B61-9324-A31E5169DFF3}
+	EndGlobalSection
+EndGlobal
